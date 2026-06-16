@@ -38,4 +38,4 @@ To set up the project environment, load mutual fund datasets, fetch NAV data fro
 
 ### GitHub Repository
 
-https://github.com/ravideltech/MutualFundAnalytics
+(https://github.com/ravideltech/bluestock-mf-capstone)
